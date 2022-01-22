@@ -69,13 +69,5 @@ public class Cydeo {
        // student.fixingBugs();
        // student.createTicket();
         student.study();
-
-
-        
-
-
-
     }
-
-
 }

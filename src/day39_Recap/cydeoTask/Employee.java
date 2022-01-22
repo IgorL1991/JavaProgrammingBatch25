@@ -43,12 +43,12 @@ public class Employee extends Person {
 
     public String toString() {
         return "Employee{" +
-                "name='" + getName() + '\'' +
-                ", age=" + getAge() +
-                ", gender=" + getGender() +
-                ", employeeID=" + employeeID +
-                ", jobTitle='" + jobTitle + '\'' +
-                ", salary=" + salary +
+                "name= '" + getName() + '\'' +
+                ", age= " + getAge() +
+                ", gender= " + getGender() +
+                ", employeeID= " + employeeID +
+                ", jobTitle= '" + jobTitle + '\'' +
+                ", salary= " + salary +
                 '}';
     }
 

@@ -4,7 +4,7 @@ public class Room {
     double width;
     double length;
 
-    public String print() {
+    public String toString() {
         return "Width: " + width + ", Length: " + length;
     }
 

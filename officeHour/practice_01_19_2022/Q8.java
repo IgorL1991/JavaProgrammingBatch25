@@ -10,6 +10,7 @@ public class Q8 {
 
         String a = s.substring(10);//String a= "t quickly and created a shadow";
 
+        System.out.println(a);
         if(a.length() > s.length()){
             System.out.println(a);
         }else{

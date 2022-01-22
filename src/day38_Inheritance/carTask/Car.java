@@ -30,7 +30,6 @@ public class Car {
 
     /*
     public void fly(){
-
     }
     fly() is not common for all the cars, and parent class should only contain the common feature of all the subclasses
     */
@@ -52,9 +51,7 @@ public class Car {
 Create a class called Car
 			instance variables:
 				brand, model, year, price, color, miles
-
 				add a constructor to set all the fields
-
 			instance methods:
 				start(), drive(),toString()
  */

@@ -168,7 +168,6 @@ Rectangle
 	w
 
 	toString(): name, l, w, area, perimeter
-
 ....
 
 

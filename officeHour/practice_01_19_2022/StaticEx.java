@@ -8,9 +8,12 @@ public class StaticEx {
 
     public static void main(String[] args) {
         System.out.print(5);
+        method1();
     }
 
     static {
         System.out.print(7);
     }
 }
+// first of all static block will be executed
+// result 75
